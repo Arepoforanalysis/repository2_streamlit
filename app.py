@@ -1,3 +1,4 @@
-import streamlit
+import streamlit as st
 
-st.title(Titolo1)
+st.title(Titolo)
+
